@@ -1,0 +1,10 @@
+{
+    "name": "discord-welcome-botu",
+    "author": {
+        "name": "Axél"
+    },
+    "private": true,
+    "dependencies": {
+        "discord.js": "12.3.1"
+    }
+}
